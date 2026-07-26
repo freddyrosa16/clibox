@@ -5,7 +5,7 @@ Terminal email.
 ## Install
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/Freddster16/clibox/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/freddyrosa16/clibox/main/install.sh | sh
 ```
 
 ## Use

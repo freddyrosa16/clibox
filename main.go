@@ -9,7 +9,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/Freddster16/clibox/internal/app"
+	"github.com/freddyrosa16/clibox/internal/app"
 )
 
 func main() {

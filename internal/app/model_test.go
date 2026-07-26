@@ -1731,7 +1731,7 @@ func testMessages() []message {
 			Subject:    "New issue assigned",
 			Date:       "Yesterday",
 			Preview:    "You were assigned issue #42.",
-			Body:       "You were assigned issue #42 in Freddster16/clibox.",
+			Body:       "You were assigned issue #42 in freddyrosa16/clibox.",
 			BodyLoaded: true,
 			Unread:     true,
 		},

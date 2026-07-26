@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 set -eu
 
-repo="github.com/Freddster16/clibox"
+repo="github.com/freddyrosa16/clibox"
 bin_name="clibox"
 min_go_minor="25"
 min_go_patch="11"
@@ -105,7 +105,7 @@ install_homebrew() {
     echo "Homebrew is required to install missing clibox dependencies automatically." >&2
     echo "Install Homebrew first: https://brew.sh/" >&2
     echo "Or explicitly allow this installer to run Homebrew's official installer:" >&2
-    echo "  curl -fsSL https://raw.githubusercontent.com/Freddster16/clibox/main/install.sh | CLIBOX_INSTALL_HOMEBREW=1 sh" >&2
+    echo "  curl -fsSL https://raw.githubusercontent.com/freddyrosa16/clibox/main/install.sh | CLIBOX_INSTALL_HOMEBREW=1 sh" >&2
     exit 1
   fi
 

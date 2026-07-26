@@ -1,4 +1,4 @@
-module github.com/Freddster16/clibox
+module github.com/freddyrosa16/clibox
 
 go 1.25.0
 
